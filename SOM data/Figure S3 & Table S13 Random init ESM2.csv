@@ -1,0 +1,61 @@
+"Dataset","Model","Training","Mean","Error","text","datag"
+"Stability","ESM2 8M","Finetuning (random init)",0.68431349250013,0.0269031337949971,"0.684 ± 0.03","diverse dataset"
+"GFP","ESM2 8M","Finetuning (random init)",0.689447598965204,0.000200869059981162,"0.689 ± 0.0002","mutational landscape"
+"AAV","ESM2 8M","Finetuning (random init)",0.708340844047221,0.00860894800874947,"0.708 ± 0.009","mutational landscape"
+"GB1","ESM2 8M","Finetuning (random init)",0.857168877565864,0.00843021149369517,"0.857 ± 0.008","mutational landscape"
+"Meltome","ESM2 8M","Finetuning (random init)",0.527185941255646,0.00539405672636935,"0.527 ± 0.005","diverse dataset"
+"Subcellular
+location","ESM2 8M","Finetuning (random init)",0.469931972789116,0.00218276073916599,"0.470 ± 0.002","diverse dataset"
+"Disorder","ESM2 8M","Finetuning (random init)",0.649416406873852,0.018594455308505,"0.649 ± 0.02","diverse dataset"
+"Secondary
+strucure","ESM2 8M","Finetuning (random init)",0.708265249817554,0.000178797102223163,"0.708 ± 0.0002","diverse dataset"
+"Stability","ESM2 150M","Finetuning (random init)",0.674934346999242,0.0585603847223384,"0.675 ± 0.06","diverse dataset"
+"GFP","ESM2 150M","Finetuning (random init)",0.68994591269659,0.000343093112308803,"0.690 ± 0.0003","mutational landscape"
+"AAV","ESM2 150M","Finetuning (random init)",0.704254940223724,0.0384062597987577,"0.704 ± 0.04","mutational landscape"
+"GB1","ESM2 150M","Finetuning (random init)",0.870409579524763,0.00946013204699257,"0.870 ± 0.009","mutational landscape"
+"Meltome","ESM2 150M","Finetuning (random init)",0.512687344663122,0.00129693554941595,"0.513 ± 0.001","diverse dataset"
+"Subcellular
+location","ESM2 150M","Finetuning (random init)",0.459081632653061,0.000999999999999958,"0.459 ± 0.001","diverse dataset"
+"Disorder","ESM2 150M","Finetuning (random init)",0.635269355952126,0.00427134346176554,"0.635 ± 0.004","diverse dataset"
+"Secondary
+strucure","ESM2 150M","Finetuning (random init)",0.708412986596892,0.00113111046814449,"0.708 ± 0.001","diverse dataset"
+"Stability","ESM2 8M","Finetuning (from pretrained)",0.798018755446139,0.0110227263255222,"0.798 ± 0.01","diverse dataset"
+"GFP","ESM2 8M","Finetuning (from pretrained)",0.688891231048748,0.0036277832923338,"0.689 ± 0.004","mutational landscape"
+"AAV","ESM2 8M","Finetuning (from pretrained)",0.830793856513014,0.0100176871745334,"0.831 ± 0.01","mutational landscape"
+"GB1","ESM2 8M","Finetuning (from pretrained)",0.883815641014141,0.00781087288100052,"0.884 ± 0.008","mutational landscape"
+"Meltome","ESM2 8M","Finetuning (from pretrained)",0.594237645311699,0.00882076346170559,"0.594 ± 0.009","diverse dataset"
+"Subcellular
+location","ESM2 8M","Finetuning (from pretrained)",0.581972789115646,0.00292422829326154,"0.582 ± 0.003","diverse dataset"
+"Disorder","ESM2 8M","Finetuning (from pretrained)",0.72383451919182,0.00207293445762645,"0.724 ± 0.002","diverse dataset"
+"Secondary
+strucure","ESM2 8M","Finetuning (from pretrained)",0.761078923479468,0.000438089312164077,"0.761 ± 0.0004","diverse dataset"
+"Stability","ESM2 150M","Finetuning (from pretrained)",0.824639771139794,0.00698601421354272,"0.825 ± 0.007","diverse dataset"
+"GFP","ESM2 150M","Finetuning (from pretrained)",0.692473830347909,0.00310971128125312,"0.692 ± 0.003","mutational landscape"
+"AAV","ESM2 150M","Finetuning (from pretrained)",0.848769723878927,0.00616715336036499,"0.849 ± 0.006","mutational landscape"
+"GB1","ESM2 150M","Finetuning (from pretrained)",0.884654261152056,0.00382651168078245,"0.885 ± 0.004","mutational landscape"
+"Meltome","ESM2 150M","Finetuning (from pretrained)",0.640608766223085,0.00914377298872078,"0.641 ± 0.009","diverse dataset"
+"Subcellular
+location","ESM2 150M","Finetuning (from pretrained)",0.629115646258503,0.0032687068459016,"0.629 ± 0.003","diverse dataset"
+"Disorder","ESM2 150M","Finetuning (from pretrained)",0.744021779794035,0.00550203645381389,"0.744 ± 0.006","diverse dataset"
+"Secondary
+strucure","ESM2 150M","Finetuning (from pretrained)",0.827902671721756,0.000467550024882624,"0.828 ± 0.0005","diverse dataset"
+"Stability","ESM2 8M","Frozen embeddings",0.759260909510653,0.00930878276288205,"0.759 ± 0.009","diverse dataset"
+"GFP","ESM2 8M","Frozen embeddings",0.631525442436413,0.00653472592094253,"0.632 ± 0.007","mutational landscape"
+"AAV","ESM2 8M","Frozen embeddings",0.675983163010876,0.00818210722032271,"0.676 ± 0.008","mutational landscape"
+"GB1","ESM2 8M","Frozen embeddings",0.826400583587592,0.00275377366457812,"0.826 ± 0.003","mutational landscape"
+"Meltome","ESM2 8M","Frozen embeddings",0.56133922070244,0.0100798190911074,"0.561 ± 0.01","diverse dataset"
+"Subcellular
+location","ESM2 8M","Frozen embeddings",0.52530612244898,0.00655615063212486,"0.525 ± 0.007","diverse dataset"
+"Disorder","ESM2 8M","Frozen embeddings",0.699841197246791,0.00184172281376758,"0.700 ± 0.002","diverse dataset"
+"Secondary
+strucure","ESM2 8M","Frozen embeddings",0.752296149943931,0.000340179767983079,"0.752 ± 0.0003","diverse dataset"
+"Stability","ESM2 150M","Frozen embeddings",0.759260909510653,0.00930878276288205,"0.759 ± 0.009","diverse dataset"
+"GFP","ESM2 150M","Frozen embeddings",0.631525442436413,0.00653472592094253,"0.632 ± 0.007","mutational landscape"
+"AAV","ESM2 150M","Frozen embeddings",0.675983163010876,0.00818210722032271,"0.676 ± 0.008","mutational landscape"
+"GB1","ESM2 150M","Frozen embeddings",0.826400583587592,0.00275377366457812,"0.826 ± 0.003","mutational landscape"
+"Meltome","ESM2 150M","Frozen embeddings",0.56133922070244,0.0100798190911074,"0.561 ± 0.01","diverse dataset"
+"Subcellular
+location","ESM2 150M","Frozen embeddings",0.52530612244898,0.00655615063212486,"0.525 ± 0.007","diverse dataset"
+"Disorder","ESM2 150M","Frozen embeddings",0.699841197246791,0.00184172281376758,"0.700 ± 0.002","diverse dataset"
+"Secondary
+strucure","ESM2 150M","Frozen embeddings",0.752296149943931,0.000340179767983079,"0.752 ± 0.0003","diverse dataset"

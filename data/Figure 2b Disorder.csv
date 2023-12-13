@@ -1,0 +1,7 @@
+﻿Model;Value;Error
+SETH*;0,72;0,01
+AlphaFold2_rsa_25*;0,64;0,01
+AlphaFold2_exp_res*;0,61;0,01
+ODiNPred*;0,67;0,01
+SETH-LoRA;0,73556911;0,009185088
+ESM2 150M finetuned;0,742039247;0,008687065

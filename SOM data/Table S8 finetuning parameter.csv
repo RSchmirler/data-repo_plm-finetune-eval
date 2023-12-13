@@ -1,0 +1,25 @@
+;;Epochs;Validation per epoch;learning rate;Batch size
+ESM2;Stability;10;10;2,00E-05;8 sequences
+;Meltome;10;10;2,00E-05;8 sequences
+;GB1;20;5;2,00E-05;8 sequences
+;AAV;10;5;2,00E-05;8 sequences
+;Disorder;20;10;2e-5 / 2e-4;1 / 8 residue
+;GFP;20;5;2,00E-05;8 sequences
+;Secondary Structure;5;20;2,00E-05;1 residue
+;Subcellular Localization;10;10;2,00E-05;8 sequences
+Ankh;Stability;50;1;3,00E-04;8 sequences
+;Meltome;10;2;3,00E-04;8 sequences
+;GB1;50;1;3,00E-04;8 sequences
+;AAV;20;1;3,00E-04;8 sequences
+;Disorder;20;10;3,00E-04;1 residue
+;GFP;50;1;3,00E-04;8 sequences
+;Secondary Structure;5;20;3,00E-04;1 residue
+;Subcellular Localization;10;10;3,00E-04;8 sequences
+ProtT5;Stability;50;1;3,00E-04;8 sequences
+;Meltome;20;1;3,00E-04;8 sequences
+;GB1;50;1;3,00E-04;8 sequences
+;AAV;20;1;3,00E-04;8 sequences
+;Disorder;20;10;3,00E-04;1 residue
+;GFP;50;1;3,00E-04;8 sequences
+;Secondary Structure;5;20;3,00E-04;1 residue
+;Subcellular Localization;5;10;3,00E-04;8 sequences

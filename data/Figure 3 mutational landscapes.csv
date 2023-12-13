@@ -1,0 +1,10 @@
+﻿Dataset;Model;Value;Error
+AAV;Homology;0,47863098;0
+GB1;Homology;0,397767076;0
+Fluorescence;Homology;0,641007832;0
+AAV;RFA;0,4101038;0
+GB1;RFA;0,6796357;0
+Fluorescence;RFA;;0
+AAV;PLM Finetuning;0,811910997;0,01466986
+GB1;PLM Finetuning;0,878826209;0,003710966
+Fluorescence;PLM Finetuning;0,688998654;0,002478645

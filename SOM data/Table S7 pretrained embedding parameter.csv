@@ -1,0 +1,9 @@
+;Epochs;Validation per epoch;learning rate;Batch size
+Stability;120;1;1,00E-04;8 sequences
+Meltome;120;1;1,00E-04;8 sequences
+GB1;240;1;1,00E-04;8 sequences
+AAV;120;1;1,00E-04;8 sequences
+Disorder;50;1;1,00E-04;8 residues
+GFP;240;1;1,00E-04;8 sequences
+Secondary Structure;10;1;1,00E-04;8 residues
+Subcellular Localization;120;1;1,00E-04;8 sequences
