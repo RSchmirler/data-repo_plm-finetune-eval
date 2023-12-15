@@ -1,6 +1,6 @@
 # Data repository for "Fine-tuning protein language models boosts predictions across diverse tasks"
 
-This repo contains all data used and generated during [this work](https://github.com/RSchmirler/data-repo_plm-finetune-eval)
+This repo contains all data used and generated during [this work](https://doi.org/10.1101/2023.12.13.571462)
 
 - **[data](data/)** contains all data for figures in the main manuscript
 - **[SOM data](SOM%20data)** contains all data for figures and tables in the Supplementary Online Material
