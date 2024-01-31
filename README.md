@@ -10,3 +10,7 @@ This repo contains all data used and generated during [this work](https://doi.or
   - AAV, GB1, Meltome and secondary structure: https://github.com/J-SNACKKB/FLIP
   - Subcellular Location: https://github.com/HannesStark/protein-localization
   - Disorder: https://github.com/DagmarIlz/SETH
+
+**License**
+   
+   This data repository is released under terms of the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
