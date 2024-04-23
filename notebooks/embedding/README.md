@@ -6,12 +6,12 @@ Important Notes:
     Check here for [setting up env from a yml File](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
    
 2. **Example - GB1 prediction task using ESM2 8M**
-    - First, run the GB1 example cell in the [Embedding_Generation_GPU](notebooks/embedding/Embedding_Generation_GPU.ipynb) notebook to compute the embeddings.
-    - Second, train a small prediction head and validate the model on the test set using the [Embedding_Predictor_Training](notebooks/embedding/Embedding_Predictor_Training.ipynb) notebook.	
+    - First, run the GB1 example cell in the [Embedding_Generation_GPU](./Embedding_Generation_GPU.ipynb) notebook to compute the embeddings.
+    - Second, train a small prediction head and validate the model on the test set using the [Embedding_Predictor_Training](./Embedding_Predictor_Training.ipynb) notebook.	
 
-3. **To generate embeddings for your own datasets, follow the examples in the [Embedding_Generation_GPU](notebooks/embedding/Embedding_Generation_GPU.ipynb) notebook**
+3. **To generate embeddings for your own datasets, follow the examples in the [Embedding_Generation_GPU](./Embedding_Generation_GPU.ipynb) notebook**
 
-4. **[Embedding_Predictor_Training](notebooks/embedding/Embedding_Predictor_Training.ipynb) can be used for both, per protein and per residue prediction tasks**
+4. **[Embedding_Predictor_Training](./Embedding_Predictor_Training.ipynb) can be used for both, per protein and per residue prediction tasks**
 
 5. **These notebooks support the following pretrained PLMs**
 
