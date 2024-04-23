@@ -1,7 +1,10 @@
-# Data repository for "Fine-tuning protein language models boosts predictions across diverse tasks"
+# Repository for "Fine-tuning protein language models boosts predictions across diverse tasks"
 
-This repo contains all data used and generated during [this work](https://doi.org/10.1101/2023.12.13.571462)
+This repo contains all data used and generated during [this work](https://doi.org/10.1101/2023.12.13.571462).
+We also provide Notebooks to reproduce our work, inlcuding examples.
 
+- **[Embedding](notebooks/embedding)** contains notebooks to generate embeddings and train embeddings based predictors
+- **[Finetuning](notebooks/finetune)** contains notebooks to finetune all protein language models used in our work 
 - **[data](data/)** contains all data for figures in the main manuscript
 - **[SOM data](SOM%20data)** contains all data for figures and tables in the Supplementary Online Material
 - **training_logs.zip** contains the raw training history logging files our analysis is based on.
