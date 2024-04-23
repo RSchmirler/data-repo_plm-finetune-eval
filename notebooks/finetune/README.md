@@ -1,11 +1,14 @@
 Important Notes:
 ----------------
 
-1. **For easy setup of a conda environment to run the notebooks you can use the finetuning.yml File provided in this folder**
+1. **For easy setup of a conda environment to run the notebooks you can use the finetune.yml File provided in this folder**
 
     Check here for [setting up env from a yml File](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
    
 2. **For detailed examples, check the information inside the notebooks**
+    - [Finetuning_per_protein](./Finetuning_per_protein.ipynb) for predictions on protein level (both classification and regression)
+    - [Finetuning_per_residue_classification](./Finetuning_per_residue_classification.ipynb) for classification of individual residues
+    - [Finetuning_per_residue_regression](./Finetuning_per_residue_regression.ipynb) for regression tasks on residue level
 
 3. **These notebooks support the following pretrained PLMs**
 
@@ -21,7 +24,7 @@ Important Notes:
 | [ProtT5](https://ieeexplore.ieee.org/document/9477085) | "Rostlab/prot_t5_xl_uniref50" |
 | [ProstT5](https://www.biorxiv.org/content/10.1101/2023.07.23.550085v2) | "Rostlab/ProstT5" |
 
-4. **Parameter efficient finetuing utilizes Huggingface [PEFT](https://huggingface.co/docs/peft/index)**
+4. **Parameter efficient finetuning utilizes Huggingface [PEFT](https://huggingface.co/docs/peft/index)**
     - LoRA finetuing is used as default setting  
     - we provide an option to finetune entire models (we recommend this for models smaller than ESM2 650M)
     - other adapters availabe from Huggingface [PEFT](https://huggingface.co/docs/peft/index) can be easily plugged in
