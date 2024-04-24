@@ -25,7 +25,7 @@ Important Notes:
 | [ProstT5](https://www.biorxiv.org/content/10.1101/2023.07.23.550085v2) | "Rostlab/ProstT5" |
 
 4. **Parameter efficient finetuning utilizes Huggingface [PEFT](https://huggingface.co/docs/peft/index)**
-    - LoRA finetuing is used as default setting  
+    - LoRA finetuning is used as default setting  
     - we provide an option to finetune entire models (we recommend this for models smaller than ESM2 650M)
     - other adapters availabe from Huggingface [PEFT](https://huggingface.co/docs/peft/index) can be easily plugged in
 
