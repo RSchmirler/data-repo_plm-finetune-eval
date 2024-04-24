@@ -1,9 +1,14 @@
 Important Notes:
 ----------------
 
-1. **For easy setup of a conda environment to run the notebooks you can use the embedding.yml File provided in this folder**
+1. **Environment**
+    1. For the embedding notebooks you need the following packages installed (our versions are given insight the notebooks):
+	- [Pytorch](https://pytorch.org/get-started/locally/)
+	- [Tensorflow](https://www.tensorflow.org/install/pip)
+	- [Transformers](https://huggingface.co/docs/transformers/de/installation)
+	- [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
 
-    Check here for [setting up env from a yml File](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
+    2. You can also use the [finetune.yml file](../finetune/) to [set up a conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
    
 2. **Example - GB1 prediction task using ESM2 8M**
     - First, run the GB1 example cell in the [Embedding_Generation_GPU](./Embedding_Generation_GPU.ipynb) notebook to compute the embeddings.
@@ -11,7 +16,7 @@ Important Notes:
 
 3. **To generate embeddings for your own datasets, follow the examples in the [Embedding_Generation_GPU](./Embedding_Generation_GPU.ipynb) notebook**
 
-4. **[Embedding_Predictor_Training](./Embedding_Predictor_Training.ipynb) can be used for both, per protein and per residue prediction tasks**
+4. **[Embedding_Predictor_Training](./Embedding_Predictor_Training.ipynb) is used for both, per protein and per residue prediction tasks**
 
 5. **These notebooks support the following pretrained PLMs**
 
