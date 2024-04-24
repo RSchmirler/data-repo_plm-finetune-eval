@@ -2,6 +2,7 @@ Important Notes:
 ----------------
 
 1. **Environment**
+
     For the embedding notebooks you need the following packages installed (our versions are given insight the notebooks):
 	- [Pytorch](https://pytorch.org/get-started/locally/)
 	- [Tensorflow](https://www.tensorflow.org/install/pip)
