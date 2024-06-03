@@ -1,0 +1,4 @@
+Model;set_HARD
+ProtT5 FFN* ;61.3±1.0
+ProtT5 LA* ;65.2±0.6
+ProtT5 FFN-LoRA ;66.2±0.6

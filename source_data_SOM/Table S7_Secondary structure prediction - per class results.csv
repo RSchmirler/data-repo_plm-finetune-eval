@@ -1,0 +1,5 @@
+;;embedding;;;;finetuned;
+;precision;recall;f1-score;number;precision;recall;f1-score
+Other;0,788;0,837;0,812;38,60%;0,812;0,829;0,82
+Helix;0,887;0,889;0,888;38,40%;0,888;0,9;0,894
+Strand;0,866;0,772;0,816;23,00%;0,864;0,815;0,839

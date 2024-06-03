@@ -38,4 +38,6 @@ Important Notes:
 
 7. **License**
    
-   This repository is released under terms of the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+   The data in this repository is released under terms of the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+
+   The source code in this repository is licensed under the MIT license, which you can find in the MIT-LICENSE.txt file.

@@ -1,4 +1,4 @@
-﻿Model;Value;Error
+﻿Model;Mean;CI
 SETH*;0,72;0,01
 AlphaFold2_rsa_25*;0,64;0,01
 AlphaFold2_exp_res*;0,61;0,01

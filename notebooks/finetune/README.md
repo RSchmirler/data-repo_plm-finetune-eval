@@ -32,7 +32,7 @@ Important Notes:
 5. **Advice for memory efficient use**
     - always use mixed precision training 
     - if GPU memory overflow occurs, reduce batch size to 1 and simulated the desired batch size using gradient accumulation
-    - if GPU memory still overflows, enable deepspeed to utilize cpu offloading
+    - if GPU memory still overflows, enable DeepSpeed to utilize CPU offloading
     - if GPU memory still overflows, remove(or truncate) long sequences
 
 6. **Cite**
@@ -41,4 +41,6 @@ Important Notes:
 
 7. **License**
    
-   This repository is released under terms of the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+   The data in this repository is released under terms of the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+
+   The source code in this repository is licensed under the MIT license, which you can find in the MIT-LICENSE.txt file.
