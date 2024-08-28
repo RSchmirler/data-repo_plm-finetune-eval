@@ -34,7 +34,7 @@ Important Notes:
 
 6. **Cite**
 
-    If you use these notebooks in your work, please cite the authors of the original PLMs you are utilizing as well as [our work](https://doi.org/10.1101/2023.12.13.571462) during which they were created.
+    If you use these notebooks in your work, please cite the authors of the original PLMs you are utilizing as well as [our work](https://www.nature.com/articles/s41467-024-51844-2) during which they were created.
 
 7. **License**
    
